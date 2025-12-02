@@ -327,13 +327,6 @@ Contributions are welcome! Potential improvements:
 - Benchmarks on real-world datasets
 - Theoretical analysis of the scaling exponent
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 📬 Contact
-
-For questions or collaborations, please open an issue or contact [your email/contact].
 
 ---
 
